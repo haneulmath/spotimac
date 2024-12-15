@@ -6,7 +6,6 @@
   width: min(70%, 1440px); 
   height: 80%;
   border-radius: 16px;
-  background-color: red;
   background: radial-gradient(circle, #171C19 0%, #101010 100%);
 }
 
