@@ -1,7 +1,6 @@
 header{
     width: 90%;
     height: 10%;
-    /* padding: 32px 0; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -25,12 +24,7 @@ nav a[href="index.html"] {
     font-weight: 500;
 }
 
-nav ul a{
-    font-size: clamp(12px, 1.5vw, 20px);
-    font-weight: 500;
-}
-
-header a[href="login.html"] {
+nav ul a, header a[href="login.html"]{
     font-size: clamp(12px, 1.5vw, 20px);
     font-weight: 500;
 }

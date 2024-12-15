@@ -16,11 +16,6 @@
   }
 }
 
-#wrapped-intro p {
-  font-size: clamp(20px, 2.5vw, 28px);
-  font-style: italic;
-}
-
 .wrapped-cards {
   padding: 64px 0 32px 0;
 }
@@ -76,7 +71,7 @@
   font-weight: 700;
 }
 
-
+/* INDEX */
 .wrapped-intro {
   padding: 64px 0 32px 0;
 }
