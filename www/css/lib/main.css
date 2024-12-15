@@ -21,7 +21,6 @@ body, html{
     overflow-x: hidden;
 }
 
-
 main{
     margin: 0;
     padding: 0;
@@ -32,15 +31,6 @@ main{
     height: 85%;
     color: var(--dark-blue);
 }
-
-/* section{
-    width: 60%;
-    height: auto;
-    margin: 100px 0px;
-    padding: 128px 0;
-    display: flex;
-    flex-direction: column;
-} */
 
 a{
     text-decoration: none;
@@ -59,8 +49,3 @@ h2{
 strong{
     font-weight: 700;
 }   
-/* @media (max-width: 1600px) {
-    h1 {
-        max-width: 100%;
-    }
-} */
