@@ -44,8 +44,8 @@
 }
 
 .wrapped-imgframe {
-  height: 50%; 
-  max-height: 250px;
+  width: 50%; 
+  max-width: 250px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 16px;
